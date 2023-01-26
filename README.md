@@ -15,4 +15,4 @@
   <li>... (coming soon)</li>
 </ul>
 <br>
-<i>Any comments on the documentation or code are more then welcome!</i>
+<i>Any comments on any of the content are more then welcome!</i>

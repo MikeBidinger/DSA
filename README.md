@@ -14,3 +14,4 @@
 <ul>
   <li>... (coming soon)</li>
 </ul>
+<i>Any comments on the documentation or code are more then welcome!</i>

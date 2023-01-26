@@ -7,8 +7,9 @@
   <li>Array</li>
   <li>Linked List</li>
   <li>Queue</li>
+  <li>... (coming soon)</li>
 </ul>
 <p>Algorithms:</p>
 <ul>
-  <li></li>
+  <li>... (coming soon)</li>
 </ul>

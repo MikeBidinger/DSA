@@ -6,6 +6,7 @@
 <ul>
   <li>Array</li>
   <li>Linked List</li>
+  <li>Stack</li>
   <li>Queue</li>
   <li>... (coming soon)</li>
 </ul>

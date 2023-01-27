@@ -13,9 +13,7 @@ class Stack:
         if self.isEmpty():
             print("Stack is empty!")
             return
-        item = self.stack[-1]
-        self.stack.pop(-1)
-        print("Popped:", item)
+        print("Popped:", self.stack.pop())
 
     def get_top(self):
         if self.isEmpty():

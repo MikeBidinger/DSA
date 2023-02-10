@@ -25,6 +25,7 @@
         <li>Breadth-First Search</li>
         <li>Depth-First Search</li>
     </ul>
+    <br>
     <li>... (coming soon)</li>
 </ul>
 <br>

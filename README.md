@@ -4,8 +4,12 @@
 <br><br>
 <p>Data Structures:</p>
 <ul>
+  <li>Lineair Data Structure</li>
   <ul>
-    <li>Array</li>
+    <ul>
+    <li>Lineair Data Structure</li>
+      <li>Array</li>
+    </ul>
   </ul>
   <li>Linked List</li>
   <li>Stack</li>

@@ -4,13 +4,11 @@
     <br>
     <ul>
         <li>Static Data Structure:</li>
-        <br>
         <ul>
             <li>Array</li>
         </ul>
         <br>
-        <li>Static Data Structure:</li>
-        <br>
+        <li>Dynamic Data Structure:</li>
         <ul>
             <li>Linked List</li>
             <li>Stack</li>
@@ -22,7 +20,6 @@
     <br>
     <ul>
         <li>Tree:</li>
-        <br>
         <ul>
             <li>Binary Tree</li>
             <li>Binary Search Tree</li>
@@ -31,7 +28,6 @@
         </ul>
         <br>
         <li>Graph:</li>
-        <br>
         <ul>
             <li>Adjancency Matrix</li>
             <li>Adjancency List</li>

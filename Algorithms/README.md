@@ -1,4 +1,4 @@
-<h1>Data Structures</h1>
+<h1>Algorithms</h1>
 <ul>
     <li>Sorting Algorithms:</li>
     <ul>
@@ -11,6 +11,7 @@
         <li>Counting Sort</li>
         <li>Radix Sort</li>
     </ul>
+    <br>
     <li>Searching Algorithms:</li>
     <ul>
         <li>Linear Search</li>

@@ -4,11 +4,19 @@
 <br><br>
 <p>Data Structures:</p>
 <ul>
-  <li>Array</li>
+  <ul>
+    <li>Array</li>
+  </ul>
   <li>Linked List</li>
   <li>Stack</li>
   <li>Queue</li>
-  <li>... (coming soon)</li>
+  <li>Binary Tree</li>
+  <li>Binary Search Tree</li>
+  <li>Heap</li>
+  <li>Hashing</li>
+  <li>Adjancency Matrix</li>
+  <li>Adjancency List</li>
+  <li>Matrix (Grid)</li>
 </ul>
 <p>Algorithms:</p>
 <ul>

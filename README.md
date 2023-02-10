@@ -2,7 +2,7 @@
 <h3>Data Structures and Algorithms</h3>
 <i>#ILoveToLearn</i>
 <br /><br />
-<p><b>Data Structures:</b></p>
+<p><b><u>Data Structures:</u></b></p>
 <ul>
     <li>Lineair Data Structure</li>
     <ul>
@@ -34,7 +34,7 @@
         </ul>
     </ul>
 </ul>
-<p><b>Algorithms:</b></p>
+<p><b><u>Algorithms:</u></b></p>
 <ul>
     <li>Sorting Algorithms</li>
     <ul>

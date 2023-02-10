@@ -2,31 +2,31 @@
 <h3>Data Structures and Algorithms</h3>
 <i>#ILoveToLearn</i>
 <br /><br />
-<p><b>Data Structures:</b></p>
+<p><b></b>Data Structures:</b></p>
 <ul>
-    <li>Lineair Data Structure</li>
+    <li>Lineair Data Structure:</li>
     <ul>
-        <li>Static Data Structure</li>
+        <li>Static Data Structure:</li>
         <ul>
             <li>Array</li>
         </ul>
-        <li>Static Data Structure</li>
+        <li>Static Data Structure:</li>
         <ul>
             <li>Linked List</li>
             <li>Stack</li>
             <li>Queue</li>
         </ul>
     </ul>
-    <li>Non-Lineair Data Structure</li>
+    <li>Non-Lineair Data Structure:</li>
     <ul>
-        <li>Tree</li>
+        <li>Tree:</li>
         <ul>
             <li>Binary Tree</li>
             <li>Binary Search Tree</li>
             <li>Heap</li>
             <li>Hashing</li>
         </ul>
-        <li>Graph</li>
+        <li>Graph:</li>
         <ul>
             <li>Adjancency Matrix</li>
             <li>Adjancency List</li>
@@ -36,7 +36,7 @@
 </ul>
 <p><b>Algorithms:</b></p>
 <ul>
-    <li>Sorting Algorithms</li>
+    <li>Sorting Algorithms:</li>
     <ul>
         <li>Selection Sort</li>
         <li>Bubble Sort</li>
@@ -47,7 +47,7 @@
         <li>Counting Sort</li>
         <li>Radix Sort</li>
     </ul>
-    <li>Searching Algorithms</li>
+    <li>Searching Algorithms:</li>
     <ul>
         <li>Linear Search</li>
         <li>Sentinel Linear Search</li>

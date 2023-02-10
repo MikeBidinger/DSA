@@ -1,28 +1,28 @@
 <h1>Data Structures</h1>
 <ul>
-    <li>Lineair Data Structure</li>
+    <li>Lineair Data Structure:</li>
     <ul>
-        <li>Static Data Structure</li>
+        <li>Static Data Structure:</li>
         <ul>
             <li>Array</li>
         </ul>
-        <li>Static Data Structure</li>
+        <li>Static Data Structure:</li>
         <ul>
             <li>Linked List</li>
             <li>Stack</li>
             <li>Queue</li>
         </ul>
     </ul>
-    <li>Non-Lineair Data Structure</li>
+    <li>Non-Lineair Data Structure:</li>
     <ul>
-        <li>Tree</li>
+        <li>Tree:</li>
         <ul>
             <li>Binary Tree</li>
             <li>Binary Search Tree</li>
             <li>Heap</li>
             <li>Hashing</li>
         </ul>
-        <li>Graph</li>
+        <li>Graph:</li>
         <ul>
             <li>Adjancency Matrix</li>
             <li>Adjancency List</li>

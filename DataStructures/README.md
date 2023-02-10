@@ -8,6 +8,7 @@
         <ul>
             <li>Array</li>
         </ul>
+        <br>
         <li>Static Data Structure:</li>
         <br>
         <ul>
@@ -15,6 +16,7 @@
             <li>Stack</li>
             <li>Queue</li>
         </ul>
+        <br>
     </ul>
     <li>Non-Lineair Data Structure:</li>
     <br>
@@ -27,6 +29,7 @@
             <li>Heap</li>
             <li>Hashing</li>
         </ul>
+        <br>
         <li>Graph:</li>
         <br>
         <ul>

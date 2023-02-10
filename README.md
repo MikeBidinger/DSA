@@ -10,7 +10,7 @@
         <ul>
             <li>Array</li>
         </ul>
-        <li>Static Data Structure:</li>
+        <li>Dynamic Data Structure:</li>
         <ul>
             <li>Linked List</li>
             <li>Stack</li>
